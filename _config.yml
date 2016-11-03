@@ -8,7 +8,5 @@ sass:
   sass_dir: _sass
   style: compressed
 highlighter: rouge
-gems:
-  - jekyll-octicons
 exclude:
   - README.md
