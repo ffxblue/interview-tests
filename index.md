@@ -7,7 +7,7 @@ title:  Home
 {% for page in site.pages %}
   {% if page.layout == 'test' %}
   <li>
-    <a href="{{ page.url }}">{{ page.title }}</a>
+    <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
   </li>
   {% endif %}
 {% endfor %}
