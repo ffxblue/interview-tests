@@ -1,0 +1,43 @@
+.btn {
+  display: inline-block;
+  line-height: 1.25;
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border: 1px solid $body-color;
+  padding: 8px 10px;
+  font-size: 12px;
+  border-radius: 8px;
+  color: $body-color;
+  margin: 20px 0;
+
+  .octicon {
+    padding-right: 3px;
+    vertical-align: bottom;
+  }
+
+  &:hover {
+    background: $primary-color;
+    border-color: $primary-color;
+    color: white;
+    fill: white;
+  }
+
+  &:active {
+    background: $secondary-color;
+    border-color: $secondary-color;
+
+  }
+
+  &:hover,
+  &:active {
+    color: white;
+    fill: white;
+  }
+}

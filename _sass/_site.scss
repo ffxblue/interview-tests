@@ -1,0 +1,29 @@
+body {
+  font-family: $base-font;
+	color: $body-color;
+	font-size: $font-size;
+  line-height: $line-height;
+}
+
+#header {
+  background: #4FC3F7;
+  height: 100px;
+  overflow: hidden;
+
+  img {
+    width: auto;
+    height: 100px;
+    margin-left: -60px; /* align the word BLUE with the 20px site padding */
+  }
+}
+
+.page-wrapper {
+  margin: 0 auto;
+  padding: 0 20px 20px;
+}
+
+@media only screen and (min-width: 600px) {
+  .page-wrapper {
+    width: 560px;
+  }
+}

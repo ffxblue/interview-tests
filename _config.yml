@@ -1,0 +1,14 @@
+title: 'Blue Technical Test'
+baseurl: '/interview-tests'
+gh:
+  pages: 'http://ffxblue.github.io/interview-tests'
+  repo: 'https://github.com/ffxblue/interview-tests'
+permalink: pretty
+sass:
+  sass_dir: _sass
+  style: compressed
+highlighter: rouge
+gems:
+  - jekyll-octicons
+exclude:
+  - README.md
