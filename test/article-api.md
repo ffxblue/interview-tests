@@ -61,10 +61,12 @@ The `articles` field contains a list of ids for the last 10 articles entered for
 
 ## Deliverables
 
-Please submit the following deliverables to: `blueco DOT tech DOT test AT gmail DOT com`. You will receive a confirmation email for your submission.
+Please submit the following deliverables to: `blueco DOT tech DOT test AT gmail DOT com`.
 
 1. Source code for the solution described above
 1. Setup/installation instructions
 1. A quick (1-2 page) description of your solution, outlining anything of interest about the code you have produced. This could be anything from why you chose the language and or libraries, why you structured the project the way that you did, why you chose a particular error handling strategy, how you approached testing etc
 1. A list of assumptions that you've made while putting this together. We've only given you a very loose spec, so you'll probably need to fill in some blanks while you are working. If you note down the assumptions, for us, then we will be able review the code within the context of those assumptions
 1. [Optional] Tell us what you thought of the test and how long it took you to complete
+
+**Note:** we prefer that you send us a link to a repository. If you send an attachment via a zip file with your source code, please be aware that Gmail may block you email. You will receive a confirmation email for your submission.
