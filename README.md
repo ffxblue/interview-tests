@@ -8,7 +8,7 @@ Open a terminal window and run:
 ``` shell
 git clone git@github.com:ffxblue/interview-tests.git ~/workspace/interview-tests
 cd ~/workspace/interview-tests
-bundle install
+bundle update && bundle install
 bundle exec jekyll serve --baseurl ''
 ```
 
