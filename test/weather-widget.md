@@ -36,7 +36,7 @@ The data the widget displays is determined by the settings in the editor; i.e. 
 
 Combine the above two inta a sample page that looks something like this:
 
-![Weather widget editor and example](/img/weather-widget-01.png "Weather widget editor and example")
+![Weather widget editor and example](../../img/weather-widget-01.png "Weather widget editor and example")
 
 ### Tests
 
