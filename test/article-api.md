@@ -6,7 +6,7 @@ The purpose of this exercise is for us to get a sense of how you would approach 
 
 There is no time limit, but we expect most applicants to spend roughly 2-3 hours working on the test. Once complete please share your repository, forward a zip file of the source code and dependencies, or use a service like Dropbox to share the file.
 
-Feel free to use any language/toolset you like. The only requirement is that you can describe how to set it up on a mac so we can see it running.
+Feel free to use any language/toolset you like, however, submission written in Go will be looked on favourably. The only requirement is that you can describe how to set it up on a mac so we can see it running.
 
 If you make any assumptions about requirements, or use any online resources to solve a problem, please make note of these somewhere obvious inside the solution (e.g. code comments).
 

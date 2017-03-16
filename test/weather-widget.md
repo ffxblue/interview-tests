@@ -6,7 +6,7 @@ The purpose of this exercise is for us to get a sense of how you would approach 
 
 There is no time limit, but we expect most applicants to spend roughly 2-3 hours working on the test. Once complete please share your repository, forward a zip file of the source code and dependencies, or use a service like Dropbox to share the file.
 
-Feel free to use any language/toolset you like. The only requirement is that you can describe how to set it up on a mac so we can see it running.
+Feel free to use any language/toolset you like, however, submission written in React will be looked on favourably. The only requirement is that you can describe how to set it up on a mac so we can see it running.
 
 If you make any assumptions about requirements, or use any online resources to solve a problem, please make note of these somewhere obvious inside the solution (e.g. code comments).
 
@@ -32,9 +32,11 @@ The widget itself should be a piece of Javascript that reads the end user's curr
 
 The data the widget displays is determined by the settings in the editor; i.e. if I created a widget called "Imperial with Wind Data" and chose imperial units, and Show Wind, I should be able to embed that widget and see those two options reflected in the widget display.
 
-### Example
+### Example Page
 
-Make an example page within the same solution that shows how the widget can be embedded, and has some CSS to style up the widget appearance. You may choose to use something like https://erikflowers.github.io/weather-icons/.
+Combine the above two inta a sample page that looks something like this:
+
+![Weather widget editor and example](/img/weather-widget-01.png "Weather widget editor and example")
 
 ### Tests
 
