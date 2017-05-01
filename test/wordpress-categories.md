@@ -13,8 +13,6 @@ Feel free to use any PHP framework you like, but note that submissions utilising
 
 If you make any assumptions about requirements, or use any online resources to solve a problem, please make note of these in your code comments.
 
-Although the test is written as a ticket, this task has already been completed. Any code written by you for this test is strictly for our evaluation only.
-
 Your solution will be evaluated internally by your potential co-workers. You should expect a response from us within two business days.
 
 ## User story
