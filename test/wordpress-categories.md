@@ -7,7 +7,7 @@ title:  WordPress Categories
 
 The purpose of this exercise is for us to get a sense of how you would approach designing and implementing a simple WordPress integration before we get you in for an interview. We're avoiding tricky algorithmic tests in favor of something that shows how you approach problems and organise a codebase.
 
-There is no time limit for this test, but we expect most applicants to complete the requirements in roughly 2-3 hours.
+There is no time limit for this test, but we expect most applicants to complete the requirements in roughly 3-4 hours.
 
 Feel free to use any PHP framework you like, but note that submissions utilising WordPress will be looked on favourably.
 
@@ -94,4 +94,4 @@ You can create a fake REST API with [JSON Server](https://github.com/typicode/js
 
 ## Deliverables
 
-All acceptance criteria should be met, to best of ability and time available. A link to your repo should be sent to: `blueco DOT tech DOT test AT gmail DOT com`
+All acceptance criteria should be met (to best of ability and time available). A link to your repo should be sent to: `blueco DOT tech DOT test AT gmail DOT com`
