@@ -14,7 +14,7 @@ Your solution will be evaluated internally by one or more of your potential co w
 
 ## Requirements
 
-Create a "weather widget" editor that allows users to set up a widget that can then be embedded on any site.
+Create a "weather widget" editor that allows users to set up a widget.
 
 ### Editor
 
@@ -24,17 +24,15 @@ The widget editor must have a form to allow a user to create a new widget. This 
 1.	Unit: metric or imperial
 1.	Show Wind: true or false
 
-The widget editor must also display a list of already created widgets with their title and a snippet of code that allows that widget to be embedded.
-
 ### Widget
 
 The widget itself should be a piece of Javascript that reads the end user's current location using `navigator.geolocation`, and retrieves the current weather conditions for that location using the [Open Weather Map API](http://openweathermap.org/current).
 
-The data the widget displays is determined by the settings in the editor; i.e. if I created a widget called "Imperial with Wind Data" and chose imperial units, and Show Wind, I should be able to embed that widget and see those two options reflected in the widget display.
+The data the widget displays is determined by the settings in the editor.
 
 ### Example Page
 
-Combine the above two inta a sample page that looks something like this:
+Combine the above two into a sample page matches the following design:
 
 ![Weather widget editor and example](../../img/weather-widget-01.png "Weather widget editor and example")
 
