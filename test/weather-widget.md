@@ -32,7 +32,7 @@ The data the widget displays is determined by the settings in the editor.
 
 ### Example Page
 
-Combine the above two into a sample page matches the following design:
+Combine the above two into a sample page that matches the following design:
 
 ![Weather widget editor and example](../../img/weather-widget-01.png "Weather widget editor and example")
 
