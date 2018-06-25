@@ -2,7 +2,7 @@
 layout: test
 title:  Weather Widget
 ---
-The purpose of this exercise is for us to get a sense of how you would approach designing and implementing a simple Javascript widget, before we get you in for an interview. We've tried to focus on something that shows how you would structure a front end solution.
+The purpose of this exercise is for us to get a sense of your ability to accurately translate a design into quality HTML/CSS and how you would approach designing and implementing a simple Javascript widget. We've tried to focus on something that shows how you would structure a front end solution.
 
 There is no time limit, but we expect most applicants to spend roughly 3 hours working on the test. Once complete please share your repository, forward a zip file of the source code and dependencies, or use a service like Dropbox to share the file.
 
@@ -14,7 +14,7 @@ Your solution will be evaluated internally by one or more of your potential co w
 
 ## Requirements
 
-Create a "weather widget" editor that allows users to set up a widget.
+Using the design below, create a "weather widget" editor that allows users to set up a widget.
 
 ### Editor
 
@@ -32,7 +32,7 @@ The data the widget displays is determined by the settings in the editor.
 
 ### Example Page
 
-Combine the above two into a sample page that **matches the following design:**
+Combine the above two into a sample page that **matches the following design:**.
 
 ![Weather widget editor and example](../../img/weather-widget-01.png "Weather widget editor and example")
 
@@ -42,11 +42,11 @@ Please submit the following deliverables to: `blueco DOT tech DOT test AT gmail 
 
 1. Source code for the solution described above.
 1. Setup/installation instructions
-1. A quick (1 page) description of your solution, outlining anything of interest about the code you have produced. This could be anything from why you chose the language and or libraries, why you structured the project the way that you did, why you chose a particular error handling strategy, how you approached testing etc
+1. A quick (1 page) description of your solution, outlining anything of interest about the code you have produced. This could be anything from why you chose the language and or libraries, why you structured the project the way that you did, why you chose a particular error handling strategy etc
 1. A list of assumptions that you've made while putting this together. We've only given you a very loose spec, so you'll probably need to fill in some blanks while you are working. If you note down the assumptions, for us, then we will be able review the code within the context of those assumptions
 1. [Optional] Tell us what you thought of the test and how long it took you to complete
 
-### Tip
+### Important
 
 Focus on accurately translating the design into quality HTML/CSS before moving onto the Javascript functionality.
 
