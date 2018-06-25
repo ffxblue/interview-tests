@@ -46,7 +46,7 @@ Please submit the following deliverables to: `blueco DOT tech DOT test AT gmail 
 1. A list of assumptions that you've made while putting this together. We've only given you a very loose spec, so you'll probably need to fill in some blanks while you are working. If you note down the assumptions, for us, then we will be able review the code within the context of those assumptions
 1. [Optional] Tell us what you thought of the test and how long it took you to complete
 
-##Tip
+### Tip
 
 Focus on accurately translating the design into quality HTML/CSS before moving onto the Javascript functionality.
 
