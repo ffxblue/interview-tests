@@ -1,6 +1,6 @@
 ---
 layout: test
-title:  UI Weather Widget
+title:  Weather Widget - UI Focus
 ---
 The purpose of this exercise is for us to get a sense of your ability to accurately translate a design into well written, semantic HTML/CSS and how you would approach designing and implementing a front end solution for a simple JavaScript widget.
 
