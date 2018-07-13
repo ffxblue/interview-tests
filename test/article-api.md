@@ -10,7 +10,7 @@ Feel free to use any language/toolset you like, however, submission written in G
 
 If you make any assumptions about requirements, or use any online resources to solve a problem, please make note of these somewhere obvious inside the solution (e.g. code comments).
 
-Your solution will be evaluated internally by one or more of your potential co workers. You should expect a response from us within 3 business days.
+Your solution will be evaluated internally by one or more of your potential co workers. You should expect a response from us within 2 business days.
 
 ## Requirements
 
