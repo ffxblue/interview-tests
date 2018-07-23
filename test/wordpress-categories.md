@@ -94,4 +94,4 @@ You can create a fake REST API with [JSON Server](https://github.com/typicode/js
 
 ## Deliverables
 
-All acceptance criteria should be met (to best of ability and time available). A link to your repo should be sent to: `blueco DOT tech DOT test AT gmail DOT com`
+All acceptance criteria should be met (to best of ability and time available). A link to your repo should be sent to: `amp HYPHEN tech HYPHEN test HYPHEN submissions HYPHEN group AT fairfaxmedia DOT com DOT au`

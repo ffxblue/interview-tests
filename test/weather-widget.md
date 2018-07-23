@@ -38,7 +38,7 @@ Combine the above two into a sample page that **matches the following design:**.
 
 ## Deliverables
 
-Please submit the following deliverables to: `blueco DOT tech DOT test AT gmail DOT com`.
+Please submit the following deliverables to: `amp HYPHEN tech HYPHEN test HYPHEN submissions HYPHEN group AT fairfaxmedia DOT com DOT au`.
 
 1. Source code for the solution described above.
 1. Setup/installation instructions
