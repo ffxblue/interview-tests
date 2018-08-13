@@ -4,9 +4,9 @@ title:  Article API
 ---
 The purpose of this exercise is for us to get a sense of how you would approach designing and implementing a simple service, before we get you in for an interview. We've tried to avoid tricky algorithmic tests in favor of something that shows how you would organise a codebase.
 
-Once complete please share your repository, forward a zip file of the source code and dependencies, or use a service like Dropbox to share the file.
+Once complete please share your repository (public repo preferred), forward a zip file of the source code and dependencies, or use a service like Dropbox to share the file.
 
-Feel free to use any language/toolset you like, however, submission written in Go will be looked on favourably. The only requirement is that you can describe how to set it up on a mac so we can see it running.
+Feel free to use any language/toolset you like, however, submission written in Go (without compromising code quality) will be looked on favourably. The only requirement is that you can describe how to set it up on a mac so we can see it running.
 
 If you make any assumptions about requirements, or use any online resources to solve a problem, please make note of these somewhere obvious inside the solution (e.g. code comments).
 
@@ -68,5 +68,6 @@ Please submit the following deliverables to: `amp HYPHEN tech HYPHEN test HYPHEN
 1. A quick (1-2 page) description of your solution, outlining anything of interest about the code you have produced. This could be anything from why you chose the language and or libraries, why you structured the project the way that you did, why you chose a particular error handling strategy, how you approached testing etc
 1. A list of assumptions that you've made while putting this together. We've only given you a very loose spec, so you'll probably need to fill in some blanks while you are working. If you note down the assumptions, for us, then we will be able review the code within the context of those assumptions
 1. [Optional] Tell us what you thought of the test and how long it took you to complete
+1. [Optional] Tell us what else you would have added to the code if you had more time
 
-**Note:** We prefer that you send us a link to a repository. If you send an attachment via a zip file with your source code, please be aware that your email may get blocked. You will receive a confirmation email for your submission.
+**Note:** We prefer that you send us a link to a (public) repository. If you send an attachment via a zip file with your source code, please be aware that your email may get blocked. You will receive a confirmation email for your submission.
