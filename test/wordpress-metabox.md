@@ -23,8 +23,7 @@ So I can easily find all advertising-related settings
 
 - A new metabox is registered for the standard "post" post type.
 - The metabox title is "Advertising Settings".
-- Three fields appear in the metabox.
-- A "Save" button appears in the metabox.
+- Three fields and a save button appear in the metabox, their requirements are outlined below.
 
 ### Advertisements field
 
