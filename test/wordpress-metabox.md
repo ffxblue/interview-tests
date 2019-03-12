@@ -50,7 +50,8 @@ So I can easily find all advertising-related settings
 ### Save button
 
 - A save button appears at the botton of the metabox.
-- When clicked, a request is sent to WordPress to save the current metabox field values to post meta for the current post.
+- When clicked, a [POST request](https://developer.wordpress.org/rest-api/reference/posts/#update-a-post) is sent to `/wp/v2/posts/<id>` to save the current metabox field values to post meta for the current post.
+- A success / error visual indicator appears after the request completes.
 
 ## Bonus
 
@@ -68,7 +69,7 @@ Our environment is set up as per below. You don't need to use this exact environ
 - ES2015 via Babel compilation.
 - Sass.
 
-Additionally, we only the support the most recent versions of Google Chrome.
+Additionally, we only the support the latest 2 versions of Google Chrome.
 
 ## Deliverables
 
