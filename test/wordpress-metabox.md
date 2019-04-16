@@ -15,42 +15,46 @@ Your solution will be evaluated internally by your potential co-workers. You sho
 
 ## User story
 
-> As a editor or journalist\
-I can access advertising features in a single location\
+> As a editor or journalist  
+I can access advertising features in a single location  
 So I can easily find all advertising-related settings
 
 ## Acceptance criteria
 
-- A new metabox is registered for the standard "post" post type.
-- The metabox title is "Advertising Settings".
-- Three fields and a save button appear in the metabox, their requirements are outlined below.
+1. A new metabox is registered for the standard "post" post type
+1. The metabox title is "Advertising Settings"
+1. Three fields and a save button appear in the metabox, their requirements are outlined below
 
 ### Advertisements field
 
-- The advertisements field has:
-  - The label "Advertisements:".
-  - Two inline radio inputs with labels: "Off" and "On".
-  - The "On" radio input selected by default.
+The advertisements field has:
+
+1. The label "Advertisements:"
+1. Two inline radio inputs with labels: "Off" and "On"
+1. The "On" radio input selected by default
 
 ### Commercial content type field
 
-- The commercial content type field has:
-  - The label "Commercial content type:".
-  - Four inline radio inputs with labels: "None", "Sponsored content", "Partnered content" and "Brought to you by".
-  - The "None" radio input selected by default.
+The commercial content type field has:
+
+1. The label "Commercial content type:"
+1. Four inline radio inputs with labels: "None", "Sponsored content", "Partnered content" and "Brought to you by"
+1. The "None" radio input selected by default
 
 ### Advertiser name field
 
-- The advertiser name field has:
-  - The label "Advertiser name:".
-  - A text input.
-- The advertiser name field is hidden while "None" is the selected commercial content type.
+The advertiser name field has:
+
+1. The label "Advertiser name:".
+1. A text input.
+
+The advertiser name field is hidden while "None" is the selected commercial content type.
 
 ### Save button
 
-- A save button appears at the botton of the metabox.
-- When clicked, a [POST request](https://developer.wordpress.org/rest-api/reference/posts/#update-a-post) is sent to `/wp/v2/posts/<id>` to save the current metabox field values to post meta for the current post.
-- A success / error visual indicator appears after the request completes.
+1. A save button appears at the botton of the metabox.
+1. When clicked, a [POST request](https://developer.wordpress.org/rest-api/reference/posts/#update-a-post) is sent to `/wp/v2/posts/<id>` to save the current metabox field values to post meta for the current post.
+1. A success / error visual indicator appears after the request completes.
 
 ## Bonus
 
@@ -62,11 +66,11 @@ The following tasks are not required, but nice to have:
 
 Our environment is set up as per below. You don't need to use this exact environment but the closer the better.
 
-- WordPress 4.9.8.
-- PHP 7+.
-- Webpack.
-- ES2015 via Babel compilation.
-- Sass.
+> WordPress 4.9.8  
+PHP 7+  
+Webpack  
+ES2015 via Babel compilation  
+Sass
 
 Additionally, we only the support the latest 2 versions of Google Chrome.
 
