@@ -66,7 +66,7 @@ The following tasks are not required, but nice to have:
 
 Our environment is set up as per below. You don't need to use this exact environment but the closer the better.
 
-> WordPress 4.9.8  
+> WordPress 5.1.1 (with Classic Editor installed)  
 PHP 7+  
 Webpack  
 ES2015 via Babel compilation  
