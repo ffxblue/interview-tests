@@ -62,18 +62,6 @@ The following tasks are not required, but nice to have:
 
 1. Test WordPress environment to be hosted and publicly accessible (with username/password)
 
-## Environment
-
-Our environment is set up as per below. You don't need to use this exact environment but the closer the better.
-
-> WordPress 5.1.1 (with Classic Editor installed)  
-PHP 7+  
-Webpack  
-ES2015 via Babel compilation  
-Sass
-
-Additionally, we only the support the latest 2 versions of Google Chrome.
-
 ## Deliverables
 
 All acceptance criteria should be met (to best of ability and time available). A link to your repo should be sent to: `amp HYPHEN tech HYPHEN test HYPHEN submissions HYPHEN group AT fairfaxmedia DOT com DOT au`
