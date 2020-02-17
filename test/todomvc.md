@@ -29,8 +29,7 @@ Your solution will be evaluated internally by your potential co-workers. You sho
 
 ## Developer notes
 
-1. You may choose to run your tests against a public [example TodoMVC application](http://todomvc.com/examples/react/), or spin up the [TodoMVC application locally](https://github.com/tastejs/todomvc/tree/gh-pages/examples/react). In either case, your submission should be well documented and reproducible by engineers evaluating your test.
-1. Limit yourself when coming up with additional tests, don't spend an unreasonable amount of time here!
+You may choose to run your tests against a public [example TodoMVC application](http://todomvc.com/examples/react/), or spin up the [TodoMVC application locally](https://github.com/tastejs/todomvc/tree/gh-pages/examples/react). In either case, your submission should be well documented and reproducible by engineers evaluating your test.
 
 ## Optional deliverables
 
