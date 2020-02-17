@@ -15,9 +15,9 @@ Your solution will be evaluated internally by your potential co-workers. You sho
 
 ## Acceptance criteria
 
-1. Using an test automation framework of your choice, write automation tests for the [TodoMVC application](http://todomvc.com/) that cover the following scenarios:
-    - Add a new item.
-    - Remove an existing item.
+1. Using the test automation framework of your choice, write automation tests for the [TodoMVC application](http://todomvc.com/) that cover the following scenarios:
+    - Add a new todo item.
+    - Remove an existing todo item.
 1. Come up with additional testing scenarios, writing automated tests for each.
 1. Ensure your submission contains a `README.md` file that includes:
     - Instructions on how to run your automated test suite.
