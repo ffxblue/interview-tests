@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css" >
   </head>
-  <body>
+  <body class="{{ page.title | slugify }}">
     {% include header.html %}
     <div class="page-wrapper">
       {{ content }}
