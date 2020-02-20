@@ -23,7 +23,7 @@ Your solution will be evaluated internally by your potential co-workers. You sho
     - Instructions on how to run your automated test suite.
     - Answers to the following questions:
         - If you joined a team of six engineers as the only engineer with testing experience and could implement any process you would like, how would you ensure that the team delivers high quality software?
-        - If you were tasked with writing testing notes for this acceptance criteria, what would you write?
+        - If you were tasked with writing testing notes for this acceptance criteria (point 1 and 2), what would you write?
 1. Upload your submission to a public repository.
 1. Send the repository link to: `amp HYPHEN tech HYPHEN test HYPHEN submissions HYPHEN group AT fairfaxmedia DOT com DOT au`.
 
