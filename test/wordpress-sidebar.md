@@ -29,31 +29,31 @@ So I can easily find all advertising-related settings
 
 ### Field 1: Advertisements
 
-1. Label: "Advertisements"
-1. Type: Toggle control
-1. Default: On/True
+- Label: "Advertisements"
+- Type: Toggle control
+- Default: On/True
 
 ### Field 2: Commercial content type
 
-1. Label: "Commercial content type"
-1. Type: Radio control
-1. Options: "None", "Sponsored content", "Partnered content" and "Brought to you by"
-1. Default: "None"
+- Label: "Commercial content type"
+- Type: Radio control
+- Options: "None", "Sponsored content", "Partnered content" and "Brought to you by"
+- Default: "None"
 
 ### Field 3: Advertiser name
 
-1. Label: "Advertiser name"
-1. Type: Text control
-1. Visibility: The advertiser name field is hidden while "None" is the selected commercial content type
+- Label: "Advertiser name"
+- Type: Text control
+- Visibility: The advertiser name field is hidden while "None" is the selected commercial content type
 
 ## Bonus
 
 The following tasks are not required, but nice to have:
 
-1. Test WordPress environment to be hosted and publicly accessible (with username/password)
-1. Local environment is ideally run via Docker
-1. Frontend code is ideally Typescript
-1. Custom panel has functional tests
+- Test WordPress environment to be hosted and publicly accessible (with username/password)
+- Local environment is ideally run via Docker
+- Frontend code is ideally Typescript
+- Custom panel has functional tests
 
 ## Deliverables
 
