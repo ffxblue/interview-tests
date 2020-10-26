@@ -25,7 +25,6 @@ So I can easily find all advertising-related settings
 1. The custom panel title is "Advertising Settings"
 1. Three fields appear in the custom panel, their requirements are outlined below
 1. These fields should be disabled while post is being saved/updated/published
-1. These fields have unit tests
 
 ### Field 1: Advertisements
 
@@ -53,7 +52,7 @@ The following tasks are not required, but nice to have:
 - Test WordPress environment to be hosted and publicly accessible (with username/password)
 - Local environment is ideally run via Docker
 - Frontend code is ideally Typescript
-- Custom panel has functional tests
+- Code has unit and/or functional tests
 
 ## Deliverables
 
