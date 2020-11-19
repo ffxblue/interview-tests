@@ -56,4 +56,4 @@ The following tasks are not required, but nice to have:
 
 ## Deliverables
 
-All acceptance criteria should be met (to the best of your ability and time available). A link to your repo should be sent to: `amp HYPHEN tech HYPHEN test HYPHEN submissions HYPHEN group AT fairfaxmedia DOT com DOT au`
+All acceptance criteria should be met (to the best of your ability and time available). A link to your repo should be sent to: `jp.maccormick@pedestriangroup.com.au`
