@@ -34,7 +34,7 @@ An article has the following attributes `id`, `title`, `date`, `body`, and list 
 }
 ```
 
-The GET `/tag/{tagName}/{date}` endpoint should produce the following JSON. Note that the actual url would look like /tags/health/20160922.
+The GET `/tags/{tagName}/{date}` endpoint should produce the following JSON. Note that the actual url would look like /tags/health/20160922.
 
 ```json
 {
